@@ -2,6 +2,7 @@
 
 int addGit()
 {
+	//second branch
 	printf("function addGit.\n");
 	return 0;
 }
